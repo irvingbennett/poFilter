@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+   <POS>
+      <PO po_sid="2918915163244714305" sbs_no="1" store_no="0" po_no="8689" po_type="0" shipto_store_no="0" billto_store_no="0" markedfor_store_no="" vend_code="PUM" vend_acct_no="" station="" disc_amt="" status="" from_so="0" so_sid="" created_date="2018-10-02T15:25:48" modified_date="2018-10-02T15:27:07-05:00" shipping_date="2018-10-02T15:25:52" cancel_date="" lst_activity_date="2018-10-02T15:25:52" sent_date="" instruction1="FOB:                # CONFIRMACION:                         " instruction2="                                                            " instruction3="                                                            " instruction4="                                                            " instruction5="                                                            " cust_fld="" use_vat="0" cms="1" active="1" verified="0" held="0" cms_post_date="2018-10-02T15:27:07" edi_flag="" edi_date="" approv_date="2018-10-02T15:27:07" unverified="0" submitted_date="" controller="1" orig_controller="1" ref_po_sid="" doc_ref_no="" pending_po="0" approv_notes="" approv_status="2" pending_override="0" diagnose="" note="" rate="1" empl_sbs_no="1" empl_name="SYSADMIN" so_no="" season_code="" tax_area_name="" approvby_sbs_no="1" approvby_empl_name="SYSADMIN" createdby_sbs_no="" createdby_empl_name="" modifiedby_sbs_no="1" modifiedby_empl_name="SYSADMIN" doc_reason_code="">
+         <PO_FEES>
+            <PO_FEE fee_type="0" amt="0" fee_name="Fee"></PO_FEE>
+         </PO_FEES>
+         <PO_TERMS>
+            <PO_TERM term_type="0" term_no="1" days="0" disc_perc="0" term_date=""></PO_TERM>
+            <PO_TERM term_type="0" term_no="2" days="0" disc_perc="0" term_date=""></PO_TERM>
+            <PO_TERM term_type="0" term_no="3" days="0" disc_perc="0" term_date=""></PO_TERM>
+         </PO_TERMS>
+         <PO_APPROVALS>&#xA;</PO_APPROVALS>
+         <PO_ITEMS>
+            <PO_ITEM item_pos="1" item_sid="274426" price="18.95" cost="25.99" fc_cost="0" tax_code="0" tax_perc="7" tax_code2="" tax_perc2="" udf_value1="" udf_value2="" udf_value3="" udf_value4="" item_note1="" item_note2="" item_note3="" item_note4="" item_note5="" item_note6="" item_note7="" item_note8="" item_note9="" item_note10="" alt_upc="" alt_alu="" alt_cost="" alt_vend_code="" currency_name="" tax_area2_name="">
+               <INVN_BASE_ITEM item_sid="274426" upc="8570" alu="857" style_sid="-245942217673130979" dcs_code="H  C  D" vend_code="PUM" scale_no="115" description1="GRIMME SLIP ON GLIDE" description2="305341-01 BLK" description3="" description4="" attr="BLK" siz="11.5" use_qty_decimals="0" tax_code="0" flag="0" ext_flag="0" item_no="857" udf3_value="" udf4_value="" udf5_value="" udf6_value="" aux1_value="" aux2_value="" aux3_value="" aux4_value="" aux5_value="" aux6_value="" aux7_value="" aux8_value=""></INVN_BASE_ITEM>
+               <PO_QTYS>
+                  <PO_QTY store_no="0" ord_qty="1" rcvd_qty="0"></PO_QTY>
+               </PO_QTYS>
+            </PO_ITEM>
+            <PO_ITEM item_pos="2" item_sid="274939" price="18.95" cost="25.99" fc_cost="0" tax_code="0" tax_perc="7" tax_code2="" tax_perc2="" udf_value1="" udf_value2="" udf_value3="" udf_value4="" item_note1="" item_note2="" item_note3="" item_note4="" item_note5="" item_note6="" item_note7="" item_note8="" item_note9="" item_note10="" alt_upc="" alt_alu="" alt_cost="" alt_vend_code="" currency_name="" tax_area2_name="">
+               <INVN_BASE_ITEM item_sid="274939" upc="8587" alu="858" style_sid="-245942217673130979" dcs_code="H  C  D" vend_code="PUM" scale_no="115" description1="GRIMME SLIP ON GLIDE" description2="305341-01 BLK" description3="" description4="" attr="BLK" siz="12" use_qty_decimals="0" tax_code="0" flag="0" ext_flag="0" item_no="858" udf3_value="" udf4_value="" udf5_value="" udf6_value="" aux1_value="" aux2_value="" aux3_value="" aux4_value="" aux5_value="" aux6_value="" aux7_value="" aux8_value=""></INVN_BASE_ITEM>
+               <PO_QTYS>
+                  <PO_QTY store_no="0" ord_qty="1" rcvd_qty="0"></PO_QTY>
+               </PO_QTYS>
+            </PO_ITEM>
+         </PO_ITEMS>
+      </PO>
+      <PO po_sid="2918918757069444067" sbs_no="1" store_no="0" po_no="8690" po_type="0" shipto_store_no="0" billto_store_no="0" markedfor_store_no="" vend_code="AER" vend_acct_no="" station="" disc_amt="" status="" from_so="0" so_sid="" created_date="2018-10-02T15:27:12" modified_date="2018-10-02T15:28:04-05:00" shipping_date="2018-10-02T15:27:12" cancel_date="" lst_activity_date="2018-10-02T15:27:12" sent_date="" instruction1="FOB:                # CONFIRMACION:                         " instruction2="                                                            " instruction3="                                                            " instruction4="                                                            " instruction5="                                                            " cust_fld="" use_vat="0" cms="1" active="1" verified="0" held="0" cms_post_date="2018-10-02T15:28:04" edi_flag="" edi_date="" approv_date="2018-10-02T15:28:04" unverified="0" submitted_date="" controller="1" orig_controller="1" ref_po_sid="" doc_ref_no="" pending_po="0" approv_notes="" approv_status="2" pending_override="0" diagnose="" note="" rate="1" empl_sbs_no="1" empl_name="SYSADMIN" so_no="" season_code="" tax_area_name="GENERAL" approvby_sbs_no="1" approvby_empl_name="SYSADMIN" createdby_sbs_no="" createdby_empl_name="" modifiedby_sbs_no="1" modifiedby_empl_name="SYSADMIN" doc_reason_code="">
+         <PO_FEES>
+            <PO_FEE fee_type="9" amt="0" fee_name="Shipng"></PO_FEE>
+         </PO_FEES>
+         <PO_TERMS>
+            <PO_TERM term_type="0" term_no="1" days="0" disc_perc="0" term_date=""></PO_TERM>
+            <PO_TERM term_type="0" term_no="2" days="0" disc_perc="0" term_date=""></PO_TERM>
+            <PO_TERM term_type="0" term_no="3" days="0" disc_perc="0" term_date=""></PO_TERM>
+         </PO_TERMS>
+         <PO_APPROVALS>&#xA;</PO_APPROVALS>
+         <PO_ITEMS>
+            <PO_ITEM item_pos="1" item_sid="44797" price="28.95" cost="35.93" fc_cost="0" tax_code="0" tax_perc="7" tax_code2="" tax_perc2="" udf_value1="" udf_value2="" udf_value3="" udf_value4="" item_note1="" item_note2="" item_note3="" item_note4="" item_note5="" item_note6="" item_note7="" item_note8="" item_note9="" item_note10="" alt_upc="" alt_alu="" alt_cost="" alt_vend_code="" currency_name="" tax_area2_name="">
+               <INVN_BASE_ITEM item_sid="44797" upc="1397" alu="139" style_sid="-245942214585951182" dcs_code="M  M  F" vend_code="AER" scale_no="54" description1="BETUNIA SLIPPER F" description2="CUERO" description3="" description4="" attr="BLACK" siz="5.5" use_qty_decimals="0" tax_code="0" flag="0" ext_flag="0" item_no="139" udf3_value="" udf4_value="" udf5_value="" udf6_value="" aux1_value="" aux2_value="" aux3_value="" aux4_value="" aux5_value="" aux6_value="" aux7_value="" aux8_value=""></INVN_BASE_ITEM>
+               <PO_QTYS>
+                  <PO_QTY store_no="0" ord_qty="1" rcvd_qty="0"></PO_QTY>
+               </PO_QTYS>
+            </PO_ITEM>
+            <PO_ITEM item_pos="2" item_sid="45051" price="28.95" cost="35.93" fc_cost="0" tax_code="0" tax_perc="7" tax_code2="" tax_perc2="" udf_value1="" udf_value2="" udf_value3="" udf_value4="" item_note1="" item_note2="" item_note3="" item_note4="" item_note5="" item_note6="" item_note7="" item_note8="" item_note9="" item_note10="" alt_upc="" alt_alu="" alt_cost="" alt_vend_code="" currency_name="" tax_area2_name="">
+               <INVN_BASE_ITEM item_sid="45051" upc="1403" alu="140" style_sid="-245942214585951182" dcs_code="M  M  F" vend_code="AER" scale_no="54" description1="BETUNIA SLIPPER F" description2="CUERO" description3="" description4="" attr="BLACK" siz="6" use_qty_decimals="0" tax_code="0" flag="0" ext_flag="0" item_no="140" udf3_value="" udf4_value="" udf5_value="" udf6_value="" aux1_value="" aux2_value="" aux3_value="" aux4_value="" aux5_value="" aux6_value="" aux7_value="" aux8_value=""></INVN_BASE_ITEM>
+               <PO_QTYS>
+                  <PO_QTY store_no="0" ord_qty="1" rcvd_qty="0"></PO_QTY>
+               </PO_QTYS>
+            </PO_ITEM>
+         </PO_ITEMS>
+      </PO>
+   </POS>
+</DOCUMENT>
